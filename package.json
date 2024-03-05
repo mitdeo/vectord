@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "bigfactoriald": "^1.0.2",
+    "deo-big-factorial": "^1.0.5",
     "deo-vector-math": "^1.0.0",
     "deotheme": "^1.0.5"
   },
